@@ -1,3 +1,4 @@
+//Alg 2 para metaER [A-Z]+C|[0-9]{2}[a-z]
 #include<stdio.h>
 #include<conio.h>
 #include<stdbool.h>
